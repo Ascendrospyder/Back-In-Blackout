@@ -1,2 +1,2 @@
 # Back-In-Blackout
-THE FOLLOWING PROJECT WAS TO USE VARIOUS OBJECT ORIENTED PROGRAMMING PRINCIPLES TO DEVELOP THE BACKEND OF A SATELLITE SIMULATION APPLICATION FROM SCRATCH GIVEN A CONTRACT. 
+The following project was to use various OOP principles to develop the backend of a satellite simulation application from scratch given a contract.
